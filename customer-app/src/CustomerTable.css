@@ -1,0 +1,74 @@
+/* CustomerTable.css */
+.search-bar-container {
+  padding: 20px;
+}
+
+.search-input {
+  width: 200px;
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.submit-button {
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #ff00ff; /* Neon color */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #cc00cc; /* Neon color */
+}
+
+.sort-dropdown {
+  margin-bottom: 20px;
+}
+
+.sort-dropdown label {
+  margin-right: 10px;
+}
+
+.sort-dropdown select {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.sort-dropdown button {
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #ff00ff; /* Neon color */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.sort-dropdown button:hover {
+  background-color: #cc00cc; /* Neon color */
+}
+
+.customer-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-left: 120px;
+}
+
+.customer-table th, .customer-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.customer-table th {
+  background-color: #ff00ff; /* Neon color */
+  color: #fff;
+  cursor: pointer;
+}
+
+.customer-table th:hover {
+  background-color: #cc00cc; /* Neon color */
+}
+

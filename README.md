@@ -26,7 +26,8 @@ D:\ZITHARA-CUSTOMER_APP>\customer-app>npm start
 
 # Output(screen shots)
 ![Screenshot 2024-03-03 103809](https://github.com/Bhargavie0315/ZITHARA-CUSTOMER_APP/assets/85867221/5a07410f-95ad-473e-a1da-681f8c61dd42)
-![Screenshot 2024-03-03 084609](https://github.com/Bhargavie0315/ZITHARA-CUSTOMER_APP/assets/85867221/24957e45-f36d-43af-a5b3-ec59aee06313)
+![Screenshot 2024-03-03 120621](https://github.com/Bhargavie0315/ZITHARA-CUSTOMER_APP/assets/85867221/079842da-cd0c-4800-9446-a009b2cc9e6a)
+
 
 
 

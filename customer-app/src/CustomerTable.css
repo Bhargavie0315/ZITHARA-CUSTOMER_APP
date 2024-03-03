@@ -3,6 +3,20 @@
   padding: 20px;
 }
 
+.page-container{
+  padding: 20px;
+}
+
+.page-container button {
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #ff00ff; /* Neon color */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
 .search-input {
   width: 200px;
   padding: 8px;
